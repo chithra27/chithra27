@@ -1,4 +1,4 @@
-![logo](https://github.com/Dhanush-harikrishnan/Dhanush-harikrishnan/blob/main/mm.png)
+![logo](https://github.com/chithra27/chithra27/blob/main/chithra.png)
 <h1 align="center">Hi 👋, I'm Chithra B</h1>
 <h3 align="center">A passionate Web Developer and Data Scientist from India</h3>
 
