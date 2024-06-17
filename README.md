@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Chithra-B)
 
-- 📄 Know about my experiences: I have experience in MERN stack, React, and a little about Web3.0
+- 📄 Know about my experiences: I have experience in html, Css, and a little about Data Science
 
-- ⚡ Fun fact: **I do home workouts**
+- ⚡ Fun fact: **I love netflix**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,9 +35,3 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chithra-b&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="GitHub contribution graph">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chithra-b&show_icons=true&locale=en&layout=compact" alt="chithra-b" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chithra-b&show_icons=true&locale=en" alt="chithra-b" /></p>
